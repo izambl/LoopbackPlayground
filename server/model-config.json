@@ -36,7 +36,7 @@
     "public": false
   },
   "Priority": {
-    "dataSource": "db",
+    "dataSource": "tiempoGoals",
     "public": true
   }
 }

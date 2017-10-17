@@ -2,5 +2,15 @@
   "db": {
     "name": "db",
     "connector": "memory"
+  },
+  "tiempoGoals": {
+    "host": "localhost",
+    "port": 27018,
+    "url": "mongodb://localhost",
+    "database": "",
+    "password": "",
+    "name": "tiempoGoals",
+    "user": "",
+    "connector": "mongodb"
   }
 }
